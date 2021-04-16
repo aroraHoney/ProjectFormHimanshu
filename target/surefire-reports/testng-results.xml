@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Sanity Suite" duration-ms="37650" started-at="2021-01-27T07:40:27Z" finished-at="2021-01-27T07:41:04Z">
+    <groups>
+    </groups>
+    <test name="Sanity" duration-ms="37650" started-at="2021-01-27T07:40:27Z" finished-at="2021-01-27T07:41:04Z">
+      <class name="TestClass">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:TestClass@2096442d]" name="openBrowser" duration-ms="37628" started-at="2021-01-26T23:40:27Z" finished-at="2021-01-26T23:41:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+      </class> <!-- TestClass -->
+    </test> <!-- Sanity -->
+  </suite> <!-- Sanity Suite -->
+</testng-results>
